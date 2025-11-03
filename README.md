@@ -2,9 +2,9 @@
 ### Real-World Exploitation Simulation on Metasploitable-2
 
 **Author:** Bernard E. Mbata  
-**Role:** Cybersecurity Analyst  |  Legal Professional  |  Business Strategist  
+**Role:** Cybersecurity Analyst |  Business Strategist  
 **Education:** Master’s Candidate in Computer Information Systems & Business Analysis  
-📫 [LinkedIn](#)  |  [Email](#)
+📫 [LinkedIn](bernard mbata)
 
 ---
 
